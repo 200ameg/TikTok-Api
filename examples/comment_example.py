@@ -2,8 +2,8 @@ from TikTokApi import TikTokApi
 import asyncio
 import os
 
-video_id = 7248300636498890011
-ms_token = os.environ.get("ms_token", None)  # set your own ms_token
+video_id = 1423611274
+ms_token =7097827245
 
 
 async def get_comments():
